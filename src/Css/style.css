@@ -1,7 +1,7 @@
 body {
   margin: 0;
   font-family: 'Georgia', serif; /* Change font to a more romantic one */
-  background: url('src/Images/galaxy.jpg') no-repeat center center fixed;
+  background: url('src/Images/galaxy.jpg');
   background-size: cover;
   color: #f0f0f0;
   display: flex;
